@@ -57,5 +57,7 @@ The goal of this project was to design an instructional solution for **Data Secu
 
 ---
 
-## **Contact Information**
-For any further questions or discussions on this project, feel free to connect with me via **LinkedIn**: [Itisha Sharma](https://www.linkedin.com/in/itishasharmaofficial/) or visit my website: [The iVision Blog](https://theivision.wordpress.com/).
+## 🌍 Explore More Projects  
+For more exciting machine learning and AI projects, visit **[The iVision](https://theivision.wordpress.com/)** and stay updated with the latest innovations and research! 🚀  
+
+---
